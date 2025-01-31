@@ -15,3 +15,4 @@
 <div align = "center "> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmishra0852&show_icons=true&locale=en&layout=compact" alt="vipinmishra0852" /></p>
 </div>
+![snake gif](https://github.com/vipinmishra0852/vipinmishra0852/blob/output/github-snake-dark.svg)
